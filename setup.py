@@ -8,6 +8,9 @@ setup(
         "numpy",
         "jupyter",
         "xlrd",
+        "requests",
+        "seaborn",
+        "matplotlib"
     ],
     # ...
 )

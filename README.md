@@ -1,6 +1,6 @@
 # LLRN Standard Python Distribution
 
-Author: Ian A Dalton https://gitub.com/ianad/
+Author: [Ian A Dalton](https://gitub.com/ianad/)
 
 Updated: 2018-11-28
 

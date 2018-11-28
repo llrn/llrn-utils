@@ -1,2 +1,9 @@
 *.csv
-.ipyn_checkpoints/*
+
+.ipynb_checkpoints/*
+
+*.egg-info
+
+build
+
+dist

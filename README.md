@@ -19,5 +19,5 @@ To install basic Python analytical toolkit distribution on a fresh (preferably [
     1. `python -m pip install --upgrade pip`
     2. `python setup.py install`
 
-If you have don't run into any errors, you can feel free to delete the `llrn-utils` directory and everything in it at this point, but you may want to check your package versions:
+If you have don't run into any errors, you can feel free to delete the `python-dist` directory and everything in it at this point, but you may want to check your package versions:
 1. `pip freeze` to see a list of all installed package versions. Compare these to the list in `requirements.txt`.
